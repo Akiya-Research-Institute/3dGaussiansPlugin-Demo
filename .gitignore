@@ -74,5 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Config/DefaultCrypto.ini
 Content/Characters/*
+Content/LevelPrototyping/*
 Content/ThirdPerson/*
 Content/__ExternalActors__/ThirdPerson/*
+Content/__ExternalObjects__/ThirdPerson/*
