@@ -28,3 +28,9 @@ Packaged build of this demo project in EXE format is available [here](https://s3
 - `Content/ThreeDGaussians/DemoBP`: BP to define keyboard inputs for this project.
 - `Content/ThreeDGaussians/DemoInput`: IMC to define keyboard inputs for this project.
 
+## Third party license notice
+
+The demo software is built using the following open source software:
+
+- [3d-gaussian-splatting](https://github.com/WangFeng18/3d-gaussian-splatting) (An unofficial Implementation)
+- [Mip-NeRF 360](https://jonbarron.info/mipnerf360/)
