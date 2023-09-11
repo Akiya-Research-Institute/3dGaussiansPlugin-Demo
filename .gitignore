@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Config/DefaultCrypto.ini
+Content/Characters/*
+Content/ThirdPerson/*
+Content/__ExternalActors__/ThirdPerson/*
