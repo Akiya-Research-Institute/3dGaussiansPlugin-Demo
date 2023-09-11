@@ -1,4 +1,4 @@
-# 3D Gaussians Plugin Demo Project
+# [3D Gaussians Plugin](https://vrlab.akiya-souken.co.jp/en/products/threedgaussianplugin/) Demo Project
 
 ## Download packaged build
 
@@ -8,7 +8,7 @@ Packaged build of this demo project in EXE format is available [here](https://s3
 
 - Windows 10 64bit
 - Unreal Engine 5.3.0
-- 3D Gaussians Plugin 1.0.0
+- [3D Gaussians Plugin] 1.0.0
 - GPU which support DirectX 12
 
 ## Setup
