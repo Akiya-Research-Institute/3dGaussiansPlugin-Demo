@@ -1,5 +1,7 @@
 # [3D Gaussians Plugin](https://vrlab.akiya-souken.co.jp/en/products/threedgaussianplugin/) Demo Project
 
+[![Youtube demo](http://img.youtube.com/vi/AGr__JrojZg/0.jpg)](https://www.youtube.com/watch?v=AGr__JrojZg)
+
 ## Download packaged build
 
 Packaged build of this demo project in EXE format is available [here](https://s3.ap-northeast-1.wasabisys.com/whisperrealtime/3dGaussiansPluginDemo-v1.0.zip)
@@ -8,7 +10,7 @@ Packaged build of this demo project in EXE format is available [here](https://s3
 
 - Windows 10 64bit
 - Unreal Engine 5.3.0
-- [3D Gaussians Plugin] 1.0.0
+- 3D Gaussians Plugin 1.0.0
 - GPU which support DirectX 12
 
 ## Setup
@@ -20,7 +22,16 @@ Packaged build of this demo project in EXE format is available [here](https://s3
 5. Click `Play` on Unreal Editor.
 6. Press `Tab` to change map. Press `F` to show FPS.
 
-## Content explanation
+## How to use demo
+
+Demo includes "Garden" and "Bicycle" scenes using [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) data.
+
+- Move: WASD keys + Mouse
+- Change scenes: Tab key
+- Show FPS: F key
+- Quit demo: ESC key
+
+## Content details
 
 - `Content/ThreeDGaussians/DemoMaps`: Maps for demo scenes.
 - `Content/ThreeDGaussians/Bicycle`: Imported data of training result of 3D Gaussian Splatting for Bicycle scene.
