@@ -1,6 +1,6 @@
 # [3D Gaussians Plugin](https://vrlab.akiya-souken.co.jp/en/products/threedgaussianplugin/) Demo Project
 
-[![Youtube demo](http://img.youtube.com/vi/AGr__JrojZg/0.jpg)](https://www.youtube.com/watch?v=AGr__JrojZg)
+[![Youtube demo](http://img.youtube.com/vi/xjIJklDqJdE/0.jpg)](https://www.youtube.com/watch?v=xjIJklDqJdE)
 
 ## Download packaged build
 
