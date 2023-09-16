@@ -34,10 +34,9 @@ Demo includes "Garden" and "Bicycle" scenes using [Mip-NeRF 360](https://jonbarr
 ## Content details
 
 - `Content/ThreeDGaussians/DemoMaps`: Maps for demo scenes.
-- `Content/ThreeDGaussians/Bicycle`: Imported data of training result of 3D Gaussian Splatting for Bicycle scene.
-- `Content/ThreeDGaussians/Garden`: Imported data of training result of 3D Gaussian Splatting for Garden scene.
-- `Content/ThreeDGaussians/DemoBP`: BP to define keyboard inputs for this project.
-- `Content/ThreeDGaussians/DemoInput`: IMC to define keyboard inputs for this project.
+- `Content/ThreeDGaussians/DemoData/Bicycle`: Imported data of training result of 3D Gaussian Splatting for Bicycle scene. Split by morton code.
+- `Content/ThreeDGaussians/DemoData/Garden`: Imported data of training result of 3D Gaussian Splatting for Garden scene. Split by the distance.
+- `Content/ThreeDGaussians/DemoInput`: BPs to define keyboard inputs for this project.
 
 ## Third party license notice
 
