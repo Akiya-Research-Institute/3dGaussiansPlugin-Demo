@@ -10,7 +10,7 @@ Packaged build of this demo project in EXE format is available [here](https://s3
 
 - Windows 10 64bit
 - Unreal Engine 5.3.0
-- 3D Gaussians Plugin 1.0.0
+- 3D Gaussians Plugin 1.0
 - GPU which support DirectX 12
 
 ## Setup
@@ -37,10 +37,3 @@ Demo includes "Garden" and "Bicycle" scenes using [Mip-NeRF 360](https://jonbarr
 - `Content/ThreeDGaussians/DemoData/Bicycle`: Imported data of training result of 3D Gaussian Splatting for Bicycle scene. Split by morton code.
 - `Content/ThreeDGaussians/DemoData/Garden`: Imported data of training result of 3D Gaussian Splatting for Garden scene. Split by the distance.
 - `Content/ThreeDGaussians/DemoInput`: BPs to define keyboard inputs for this project.
-
-## Third party license notice
-
-The demo software is built using the following open source software:
-
-- [3d-gaussian-splatting](https://github.com/WangFeng18/3d-gaussian-splatting) (An unofficial Implementation)
-- [Mip-NeRF 360](https://jonbarron.info/mipnerf360/)
