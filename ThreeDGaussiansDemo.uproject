@@ -14,10 +14,11 @@
 		{
 			"Name": "ThreeDGaussians",
 			"Enabled": true,
-			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en/product/410c8105b3aa41d38ab68660295bd7f3"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/410c8105b3aa41d38ab68660295bd7f3"
 		}
 	],
 	"TargetPlatforms": [
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
