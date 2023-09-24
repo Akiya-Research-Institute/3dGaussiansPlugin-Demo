@@ -18,7 +18,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Windows",
-		"HoloLens"
+		"Windows"
 	]
 }
